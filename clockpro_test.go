@@ -1,4 +1,5 @@
-package clockpro
+//package clockpro
+package main
 
 import (
 	"bufio"

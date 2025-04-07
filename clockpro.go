@@ -14,7 +14,8 @@ The original paper: http://static.usenix.org/event/usenix05/tech/general/full_pa
 
 It is MIT licensed, like the original.
 */
-package clockpro
+//package clockpro
+package main
 
 import "container/ring"
 
